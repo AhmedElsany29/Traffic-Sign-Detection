@@ -1,6 +1,8 @@
-🚦 ***Traffic Sign Detection – A Deep Learning Project using Convolutional Neural Networks (CNNs)*** 🚀
+🚦 **Traffic Sign Detection**
 
-I'm thrilled to share my latest project on Traffic Sign Detection, where I implemented deep learning techniques to detect and classify traffic signs. The project was developed on Kaggle and explores how CNNs can be utilized to accurately recognize various traffic signs in real-world environments.
+  ***Deep Learning Project using Convolutional Neural Networks (CNNs)***
+  
+🚀 I'm thrilled to share my latest project on Traffic Sign Detection, where I implemented deep learning techniques to detect and classify traffic signs. The project was developed on Kaggle and explores how CNNs can be utilized to accurately recognize various traffic signs in real-world environments.
 
 🔍 Project Overview:
 
