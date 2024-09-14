@@ -30,10 +30,10 @@ After fine-tuning the hyperparameters and augmenting the data, the model achieve
 - Confusion matrix to evaluate the model’s performance.
 - Accuracy and loss graphs to track the training process.
 
-NoteBook on Kaggle: https://www.kaggle.com/code/ahmedelsany/traffic-sign-detection
+NoteBook on Kaggle:
+https://www.kaggle.com/code/ahmedelsany/traffic-sign-detection
 
-Dataset : https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+Dataset :
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 This project is part of my continuous learning journey in the world of deep learning and computer vision. Looking forward to exploring more innovative applications in the future!
-
-#DeepLearning #CNN #TrafficSignDetection #Python #Keras #TensorFlow #OpenCV #Kaggle #ComputerVision
